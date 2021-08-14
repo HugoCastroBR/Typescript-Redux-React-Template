@@ -1,6 +1,6 @@
 {
   "name": "cra-template-typescript-redux-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main":"template.json",
   "keywords": [
     "react",
@@ -12,6 +12,7 @@
     "template"
   ],
   "dependencies": {
+    "cra-template-typescript-redux-react" : "^1.0.0",
     "@reduxjs/toolkit": "^1.6.1",
     "@testing-library/react": "^12.0.0",
     "@types/jest": "^27.0.1",
