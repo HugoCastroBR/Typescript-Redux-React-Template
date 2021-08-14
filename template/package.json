@@ -1,16 +1,7 @@
 {
-  "name": "cra-template-typescript-redux-react",
-  "version": "1.0.0",
-  "main":"template.json",
-  "keywords": [
-    "react",
-    "create-react-app",
-    "template"
-  ],
-  "files":[
-    "template.json",
-    "template"
-  ],
+  "name": "typescript-redux-react-template",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.1",
     "@testing-library/react": "^12.0.0",
@@ -36,7 +27,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
